@@ -49,7 +49,7 @@
   background-size: cover;
 }
 .card.bg-buku {
-  background: url('@/assets/img/bg.jpg');
+  background: url('@/assets/img/bg-cari-buku.jpeg');
   background-size: cover;
 }
 </style>
