@@ -43,13 +43,13 @@
   box-shadow: 1px 1px 10px #424242;
 }
 .card.bg-pengunjung {
-  background-image: url('@/assets /img/bg.jpeg');
+  background-image: url('@/assets/img/bg.jpeg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
 }
 .card.bg-buku {
-  background: url('@/assets /img/bg.jpg');
+  background: url('@/assets/img/bg.jpg');
   background-size: cover;
 }
 </style>

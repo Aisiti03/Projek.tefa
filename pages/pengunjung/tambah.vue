@@ -121,7 +121,7 @@ form {
   border-radius: 20px;
 }
 .container-fluid {
-  background-image: url("@/assets /img/bg.jpeg");
+  background-image: url("@/assets/img/bg.jpeg");
   background-size:cover;
   width: 100%;
   height: 100vh;
